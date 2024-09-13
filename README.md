@@ -8,23 +8,27 @@
   <img alt="trophy" height="150px" src="https://github-profile-trophy.vercel.app/?username=ike-keichan&column=8&theme=tokyonight" />
 </div>
 <div align="center">
-  <h2>:artist_palette:　art　:artist_palette:</h2>
-  <div>
-    These are my artwork programs.
+  <h2>:artist_palette:　trophy　:artist_palette:</h2>
+  <div align="left">
+    <p>
+      These are my artwork programs.
+    </p>
+    <ul>
+      <li>https://github.com/ike-keichan/KeiLisp</li>
+      <li>https://github.com/ike-keichan/KeiLisp-onWeb</li>
+    </ul>
   </div>
-  <ul>
-    <li>https://github.com/ike-keichan/KeiLisp</li>
-    <li>https://github.com/ike-keichan/KeiLisp-onWeb</li>
-  </ul>
 </div>
 <div align="center">
-  <h2>:beach_with_umbrella:　sandbox　:beach_with_umbrella:</h2>
-  <div>
-    These are my sandbox programs.
-    I use them as templates or to experiment with something.
+  <h2>:beach_with_umbrella:　trophy　:beach_with_umbrella:</h2>
+  <div align="left">
+    <p>
+      These are my sandbox programs.
+      I use them as templates or to experiment with something.
+    </p>
+    <ul>
+      <li>https://github.com/ike-keichan/nextjs-sandbox</li>
+      <li>https://github.com/ike-keichan/wasm-for-js-sandbox</li>
+    </ul>
   </div>
-  <ul>
-    <li>https://github.com/ike-keichan/nextjs-sandbox</li>
-    <li>https://github.com/ike-keichan/wasm-for-js-sandbox</li>
-  </ul>
 </div>
