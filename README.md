@@ -8,7 +8,7 @@
   <img alt="trophy" height="150px" src="https://github-profile-trophy.vercel.app/?username=ike-keichan&column=8&theme=tokyonight" />
 </div>
 <div align="center">
-  <h2>:artist_palette:　trophy　:artist_palette:</h2>
+  <h2>:art:　art　	:art:</h2>
   <div align="left">
     <p>
       These are my artwork programs.
@@ -20,7 +20,7 @@
   </div>
 </div>
 <div align="center">
-  <h2>:beach_with_umbrella:　trophy　:beach_with_umbrella:</h2>
+  <h2>:desert_island:　sandbox　:desert_island:</h2>
   <div align="left">
     <p>
       These are my sandbox programs.
