@@ -28,6 +28,7 @@
     </p>
     <ul>
       <li>https://github.com/ike-keichan/nextjs-sandbox</li>
+      <li>https://github.com/ike-keichan/fastapi-sandbox</li>
       <li>https://github.com/ike-keichan/wasm-for-js-sandbox</li>
     </ul>
   </div>
