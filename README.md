@@ -14,7 +14,7 @@
       These are my artwork programs.
     </p>
     <ul>
-      <li>https://github.com/ike-keichan/KeiLisp</li>
+      <li>https://github.com/ike-keichan/kei-lisp</li>
       <li>https://github.com/ike-keichan/KeiLisp-onWeb</li>
     </ul>
   </div>
